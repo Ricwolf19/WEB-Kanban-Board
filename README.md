@@ -1,7 +1,7 @@
 # WEB-Kanban-Board
 
 <p align="center">
-  <img width="800" height="500" src="/public/example.png" alt="example">
+  <img width="1000" height="400" src="/public/example.png" alt="example">
 </p>
 
 Dynamic kanban board with database connection, using Firebase, TypeScript, Tailwind CSS, and React.
