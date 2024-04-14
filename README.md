@@ -4,7 +4,7 @@
   <img width="1000" height="400" src="/public/example.png" alt="example">
 </p>
 
-Dynamic kanban board with database connection, using Firebase, TypeScript, Tailwind CSS, and React.
+Dynamic kanban board with database connection, using Firebase, TypeScript, Tailwind CSS, react and dnd-kit.
 
 ## Overview
 
@@ -27,6 +27,8 @@ This project is a web-based kanban board application designed to help teams mana
 - **TypeScript:** Typed superset of JavaScript for enhanced code readability, maintainability, and error detection.
   
 - **Tailwind CSS:** Utility-first CSS framework for quickly styling components and creating a modern UI design.
+  
+- **dnd-kit:** A lightweight, performant, accessible and extensible drag & drop toolkit for React.
 
 ## Getting Started
 
